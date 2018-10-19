@@ -1,11 +1,9 @@
 package com.design.pattern.迭代.黑箱聚集与内禀迭代子;
 
 /*******************************************************************************
- * 版权信息：博睿宏远科技发展有限公司
- * Copyright: Copyright (c) 2007博睿宏远科技发展有限公司,Inc.All Rights Reserved.
  *
  * @date 2018-10-19 上午 11:03 
- * @author: <a href=mailto:huangyr@bonree.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr@.com>黄跃然</a>
  * @Description: 黑箱聚集与内禀迭代子
  ******************************************************************************/
 public class ConcreteAggregate extends Aggregate {
