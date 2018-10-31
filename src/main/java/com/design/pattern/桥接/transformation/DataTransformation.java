@@ -5,7 +5,7 @@ import com.design.pattern.桥接.dbservice.DBService;
 /*******************************************************************************
  *
  * @date 2018-10-16 下午 2:09 
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description: 数据转换类 转换类型扩展
  ******************************************************************************/
 public abstract class DataTransformation {

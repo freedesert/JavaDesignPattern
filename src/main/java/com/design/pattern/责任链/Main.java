@@ -3,7 +3,7 @@ package com.design.pattern.责任链;
 /*******************************************************************************
  *
  * @date 2018-10-18 下午 2:37 
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description:
  ******************************************************************************/
 public class Main {

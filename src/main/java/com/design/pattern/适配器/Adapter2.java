@@ -3,7 +3,7 @@ package com.design.pattern.适配器;
 /*******************************************************************************
  *
  * @date 2018-10-16 上午 11:25 
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description: 继承
  ******************************************************************************/
 public class Adapter2 extends Adaptee {

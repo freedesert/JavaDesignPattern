@@ -5,7 +5,7 @@ import com.design.pattern.命令.receiver.Receiver;
 /*******************************************************************************
  *
  * @date 2018-10-18 下午 2:59 
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description:
  ******************************************************************************/
 public class DBCommand implements Command {

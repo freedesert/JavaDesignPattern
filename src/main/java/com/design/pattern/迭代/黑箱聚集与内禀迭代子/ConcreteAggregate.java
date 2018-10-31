@@ -2,7 +2,7 @@ package com.design.pattern.迭代.黑箱聚集与内禀迭代子;
 
 /*******************************************************************************
  * @date 2018-10-19 上午 11:03
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description: 黑箱聚集与内禀迭代子
  ******************************************************************************/
 public class ConcreteAggregate extends Aggregate {

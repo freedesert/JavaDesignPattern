@@ -5,7 +5,7 @@ import com.design.pattern.桥接.connection.DBConnection;
 /*******************************************************************************
  *
  * @date 2018-10-16 下午 2:20 
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description: Mysql连接
  ******************************************************************************/
 public class MysqlConnction implements DBConnection {

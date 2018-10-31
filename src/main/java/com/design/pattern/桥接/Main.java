@@ -8,7 +8,7 @@ import com.design.pattern.桥接.transformation.impl.PDFDataTransformation;
 /*******************************************************************************
  *
  * @date 2018-10-16 下午 2:43 
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description: 桥接模式
  ******************************************************************************/
 public class Main {

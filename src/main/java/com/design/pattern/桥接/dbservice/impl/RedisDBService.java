@@ -6,7 +6,7 @@ import com.design.pattern.桥接.dbservice.DBService;
 /*******************************************************************************
  *
  * @date 2018-10-16 下午 2:24 
- * @author: <a href=mailto:huangyr@.com>黄跃然</a>
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description:
  ******************************************************************************/
 public class RedisDBService extends DBService {
